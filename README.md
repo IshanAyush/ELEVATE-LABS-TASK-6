@@ -31,3 +31,7 @@ GROUP BY
     YEAR(OrderDate), MONTH(OrderDate)
 ORDER BY 
     order_year ASC, order_month ASC;
+
+---
+
+## 1️⃣ Query: Monthly Sales Trend
